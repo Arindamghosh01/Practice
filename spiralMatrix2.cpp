@@ -32,7 +32,7 @@ public:
                 case 1:
                     i++;
                     break;
-                case 2:
+                case 2:`
                     j--;
                     break;
                 case 3:
